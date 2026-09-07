@@ -10,3 +10,5 @@ Reporting & Analytics
 System Administration
 Kitchen Workflow
 Order Management
+Auto-Dispatch Algorithm
+Driver Interface
