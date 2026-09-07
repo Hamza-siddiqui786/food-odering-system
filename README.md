@@ -8,3 +8,5 @@ Order Tracking & Notifications
 Delivery & Logistics
 Reporting & Analytics
 System Administration
+Kitchen Workflow
+Order Management
